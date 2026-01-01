@@ -1,8 +1,10 @@
 ## Hi, I’m Jennifer 👋
 
-I’m a junior at **Johns Hopkins University**, double majoring in **Computer Science** and **Behavioral Biology**. I’m interested in building **accessible, user-centered web experiences**, especially at the intersection of technology, data, and real-world impact.
+I’m a junior at **Johns Hopkins University**, double majoring in **Computer Science** and **Behavioral Biology**. I’m interested in building **accessible, fun, and user-centered web experiences**, especially at the intersection of technology, data, and real-world impact. I appreciate small, easy-to-use tools that are availiable to everyone. 
 
 My background spans both software and animal-focused work: I’ve supported a **veterinary clinical team** and conducted undergraduate research on **bat acoustic signals**, studying how animals use sound to navigate and distinguish objects. These experiences shape how I think about usability, systems, and careful experimental design.
+
+I also enjoy **games and interactive media**, which has made me especially interested in **visual interaction, feedback, and system design**.
 
 ---
 
@@ -29,7 +31,7 @@ My background spans both software and animal-focused work: I’ve supported a **
 **Design**
 - UI/UX-focused design thinking  
 - Figma 
-- Portfolio:** [link](https://drive.google.com/file/d/1R4OrZV-p-iP0CGaH-a6CPwZE8QPufBW0/view?usp=sharing)
+- [2025 Design/Illustration Portfolio](https://drive.google.com/file/d/1R4OrZV-p-iP0CGaH-a6CPwZE8QPufBW0/view?usp=sharing)
   
 **Backend & Data**
 - Node.js  
