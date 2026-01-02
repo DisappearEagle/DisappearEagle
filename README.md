@@ -9,8 +9,6 @@ I also enjoy **games and interactive media**, which has made me especially inter
 ---
 
 ### 🛠️ Projects
-- **Data Visualization + GenAI Summaries**  
-  A small project that pairs interactive data visualizations with AI-generated summaries to make complex information easier to explore and interpret.
 
 - **Lightweight Note-Taking App**  
   A web-based note system emphasizing **concise keyword management** and minimal interfaces for fast organization and retrieval.
