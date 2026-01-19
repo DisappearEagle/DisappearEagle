@@ -10,8 +10,8 @@ I also enjoy **games and interactive media**, which has made me especially inter
 
 ### 🛠️ Projects
 
-- **Lightweight Note-Taking App**  
-  A web-based note system emphasizing **concise keyword management** and minimal interfaces for fast organization and retrieval.
+- **Lightweight Gemini-AI-powered Note App**  
+  A web-based note system emphasizing automatic "cross-sectionally" review guide.
 
 ---
 
