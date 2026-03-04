@@ -5,6 +5,7 @@ I’m a junior at **Johns Hopkins University**, double majoring in **Computer Sc
 My background spans both software and animal-focused work: I’ve supported a **veterinary clinical team** and conducted undergraduate research on **bat acoustic signals**, studying how animals use sound to navigate and distinguish objects. These experiences shape how I think about usability, systems, and careful experimental design.
 
 I also enjoy **games and interactive media**, which has made me especially interested in **visual interaction, feedback, and system design**.
+- [2026 Design/Illustration Portfolio](https://drive.google.com/file/d/1R4OrZV-p-iP0CGaH-a6CPwZE8QPufBW0/view?usp=sharing)
 
 ---
 
@@ -29,7 +30,6 @@ I also enjoy **games and interactive media**, which has made me especially inter
 **Design**
 - UI/UX-focused design thinking  
 - Figma 
-- [2025 Design/Illustration Portfolio](https://drive.google.com/file/d/1R4OrZV-p-iP0CGaH-a6CPwZE8QPufBW0/view?usp=sharing)
   
 **Backend & Data**
 - Node.js  
